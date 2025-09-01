@@ -152,3 +152,28 @@ main{
     font-size: 14px;
     text-align: justify;
 }
+/* A summary of My Resume */
+.resume-title{
+    margin-top: 130px;
+}
+.resume-container{
+    margin-top: 113px;
+    display: flex;
+    gap: 70px;
+}
+.resume-column-title{
+    font-size: 30px;
+}
+.resume-exp-title{
+    font-size: 25px;
+}
+.resume-exp-sub-title{
+    font-size: 20px;
+    font-weight: 600;
+}
+.resume-exp-description{
+    font-size: 16px;
+}
+.resume button{
+    margin-top: 50px;
+}
