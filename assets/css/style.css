@@ -177,3 +177,33 @@ main{
 .resume button{
     margin-top: 50px;
 }
+
+/* footer */
+footer{
+    display: flex;
+    background-color: #FFF8F3;
+    padding: 0 230px;
+    gap: 147px;
+}
+.footer-column{
+    width: 50%;
+}
+.footer-title{
+    font-size: 35px;
+}
+.footer-des{
+    margin-bottom: 30px;
+}
+.footer-icon{
+    margin-right: 30px;
+}
+footer input[type='text'], input[type='email'], textarea{
+    display: block;
+    width: 100%;
+    height:64px;
+    margin-top: 25px;
+    padding: 18px;
+}
+footer button{
+    margin-top: 24px;
+}
